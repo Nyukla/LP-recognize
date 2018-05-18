@@ -1,0 +1,77 @@
+E:\Emgu\EmguC\EmguC\bin\Release\EmguC.exe.config
+E:\Emgu\EmguC\EmguC\bin\Release\cublas64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Release\cudart64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Release\cufft64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Release\cvextern.dll
+E:\Emgu\EmguC\EmguC\bin\Release\Emgu.CV.UI.dll
+E:\Emgu\EmguC\EmguC\bin\Release\Emgu.CV.UI.GL.dll
+E:\Emgu\EmguC\EmguC\bin\Release\Emgu.CV.World.dll
+E:\Emgu\EmguC\EmguC\bin\Release\msvcp120.dll
+E:\Emgu\EmguC\EmguC\bin\Release\msvcr120.dll
+E:\Emgu\EmguC\EmguC\bin\Release\nppc64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Release\nppi64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Release\npps64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_aruco310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_bgsegm310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_calib3d310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_ccalib310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_core310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_datasets310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_dnn310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_face310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_features2d310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_ffmpeg310_64.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_flann310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_fuzzy310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_highgui310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_imgcodecs310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_imgproc310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_line_descriptor310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_ml310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_objdetect310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_optflow310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_photo310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_plot310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_reg310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_rgbd310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_shape310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_stereo310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_stitching310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_structured_light310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_superres310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_surface_matching310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_text310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_tracking310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_video310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_videoio310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_videostab310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_xfeatures2d310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_ximgproc310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_xobjdetect310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\opencv_xphoto310.dll
+E:\Emgu\EmguC\EmguC\bin\Release\EmguC.exe
+E:\Emgu\EmguC\EmguC\bin\Release\EmguC.pdb
+E:\Emgu\EmguC\EmguC\obj\Release\EmguC.csprojResolveAssemblyReference.cache
+E:\Emgu\EmguC\EmguC\obj\Release\EmguC.Form1.resources
+E:\Emgu\EmguC\EmguC\obj\Release\EmguC.Form2.resources
+E:\Emgu\EmguC\EmguC\obj\Release\EmguC.Form3.resources
+E:\Emgu\EmguC\EmguC\obj\Release\EmguC.Properties.Resources.resources
+E:\Emgu\EmguC\EmguC\obj\Release\EmguC.csproj.GenerateResource.Cache
+E:\Emgu\EmguC\EmguC\obj\Release\EmguC.exe
+E:\Emgu\EmguC\EmguC\obj\Release\EmguC.pdb
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\EmguC.exe.config
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Release\EmguC.exe
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Release\EmguC.pdb
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\ZedGraph.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\EmguC.exe
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\EmguC.pdb
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Release\Emgu.CV.World.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Release\EmguC.Form2.resources
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Release\EmguC.Form3.resources
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Release\EmguC.gendata.resources
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Release\EmguC.Properties.Resources.resources
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Release\EmguC.csproj.GenerateResource.Cache

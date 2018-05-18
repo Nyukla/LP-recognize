@@ -1,0 +1,92 @@
+E:\Gendata\EmguC\EmguC\bin\Debug\EmguC.exe.config
+E:\Gendata\EmguC\EmguC\obj\Debug\EmguC.exe
+E:\Gendata\EmguC\EmguC\obj\Debug\EmguC.pdb
+E:\Emgu\EmguC\EmguC\bin\Debug\cublas64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\cudart64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\cufft64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\cvextern.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\Emgu.CV.UI.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\Emgu.CV.UI.GL.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\Emgu.CV.World.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\msvcp120.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\msvcr120.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\nppc64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\nppi64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\npps64_75.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_aruco310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_bgsegm310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_calib3d310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_ccalib310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_core310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_datasets310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_dnn310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_face310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_features2d310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_ffmpeg310_64.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_flann310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_fuzzy310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_highgui310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_imgcodecs310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_imgproc310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_line_descriptor310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_ml310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_objdetect310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_optflow310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_photo310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_plot310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_reg310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_rgbd310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_shape310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_stereo310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_stitching310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_structured_light310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_superres310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_surface_matching310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_text310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_tracking310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_video310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_videoio310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_videostab310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_xfeatures2d310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_ximgproc310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_xobjdetect310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_xphoto310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\EmguC.exe.config
+E:\Emgu\EmguC\EmguC\bin\Debug\EmguC.exe
+E:\Emgu\EmguC\EmguC\bin\Debug\EmguC.pdb
+E:\Emgu\EmguC\EmguC\obj\Debug\EmguC.Form1.resources
+E:\Emgu\EmguC\EmguC\obj\Debug\EmguC.Form2.resources
+E:\Emgu\EmguC\EmguC\obj\Debug\EmguC.Form3.resources
+E:\Emgu\EmguC\EmguC\obj\Debug\EmguC.Properties.Resources.resources
+E:\Emgu\EmguC\EmguC\obj\Debug\EmguC.csproj.GenerateResource.Cache
+E:\Emgu\EmguC\EmguC\obj\Debug\EmguC.exe
+E:\Emgu\EmguC\EmguC\obj\Debug\EmguC.pdb
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudaarithm310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudabgsegm310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudacodec310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudafeatures2d310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudafilters310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudaimgproc310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudalegacy310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudaobjdetect310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudaoptflow310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudastereo310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudawarping310.dll
+E:\Emgu\EmguC\EmguC\bin\Debug\opencv_cudev310.dll
+E:\Emgu\EmguC\EmguC\obj\Debug\EmguC.csprojResolveAssemblyReference.cache
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\ZedGraph.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\EmguC.exe.config
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\EmguC.exe
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\EmguC.pdb
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\bin\Debug\Emgu.CV.World.dll
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Debug\EmguC.Form2.resources
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Debug\EmguC.Form3.resources
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Debug\EmguC.Properties.Resources.resources
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Debug\EmguC.csproj.GenerateResource.Cache
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Debug\EmguC.exe
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Debug\EmguC.pdb
+C:\Users\lap\Desktop\Диплом и госы\Emgu\EmguC\EmguC\obj\Debug\EmguC.gendata.resources
